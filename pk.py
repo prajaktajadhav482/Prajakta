@@ -1,4 +1,4 @@
-cname=input("enter name")
+cname=input("enter name=")
 units=eval(input("enter no.of units consumed"))
 dc=50
 if units>500:
